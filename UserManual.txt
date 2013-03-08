@@ -1,0 +1,21 @@
+Compile the program
+
+javac HelloWorld.java 
+
+command is used to compile the source code. When you compile the program you'll 
+create a byte-code file named HelloWorld.class. You can confirm this with the 
+dir command in the DOS/Windows world.
+
+
+Execute the byte code
+
+Now you can execute the byte code in the Java interpreter with this command: 
+
+java HelloWorld
+
+
+Output of the program
+
+When you run the program at the command line, you'll see this output: 
+
+Hello, world!
