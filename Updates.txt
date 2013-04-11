@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testing git after defense
+=======
+added gantt chart
+>>>>>>> b410515a873e1abcbe96f7d21c80cf47bd6e4714
